@@ -6,3 +6,4 @@ while reszta != 0:
     liczba1 = liczba2
     liczba2 = reszta
 print(liczba1)
+#
