@@ -1,5 +1,8 @@
 # Python
-+gotowe zadania python 👍
-+respekt za korzystanie 🤭
-+giwazdka pls 😎
--zdanc 
+* gotowe zadania python 👍
+* respekt na sali 😎
+# UWAGA wymagam:
+* gwiazdki za korzystanie
+* zmienienie nazw plikow
+* zmienienie kodu
+ 
