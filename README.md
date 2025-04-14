@@ -1,4 +1,4 @@
-# Python
+# Python Zadania
 * gotowe zadania python 👍
 * respekt na sali 😎
 # UWAGA wymagam:
